@@ -70,4 +70,4 @@ The data model includes:
 
 *(Add a screenshot here if available)*  
 ```md
-![BigBox Dashboard Preview](bigbox-dashboard-preview.png)
+![BigBox Dashboard Preview](BigBox_dashboard.png)
