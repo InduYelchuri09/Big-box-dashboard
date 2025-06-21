@@ -66,8 +66,9 @@ The data model includes:
 
 ---
 
-## 📷 Dashboard Preview
+## 📸 Dashboard Preview
 
-*(Add a screenshot here if available)*  
-```md
-![BigBox Dashboard Preview](BigBox_dashboard.png)
+Here’s a visual overview of the BigBox Sales Power BI Dashboard:
+
+![BigBox Dashboard](BigBox_dashboard.png)
+
